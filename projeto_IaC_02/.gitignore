@@ -1,0 +1,15 @@
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files ##
+*.tfstate
+*.tfstate.*
+
+# Chave ssh ##
+*.pem
+*IaC-*
+*Iac-*
+
+# Anotacoes ##
+anotacoes
